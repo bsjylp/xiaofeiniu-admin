@@ -40,7 +40,7 @@ export default new Router({
       {path:'/dish/list',component:DishList},
       {path:'/dish/add',component:DishAdd},
       {path:'/dish/delete',component:DishDelete},
-      {path:'/dish/updata',component:DishUpdate},
+      {path:'/dish/update',component:DishUpdate},
       {path:'/order/list',component:OrderList},
       {path:'/security',component:Security}
     ]
